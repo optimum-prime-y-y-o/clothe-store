@@ -1,6 +1,6 @@
 # Документация по Бэкенду (FastAPI)
 
-![Схема базы данных](db.png)
+![Схема базы данных](https://github.com/optimum-prime-y-y-o/clothe-store/blob/main/images/db.png)
 
 ### Структура проекта
 
