@@ -4,7 +4,7 @@
 
 
 
-![Каталог магазина](catalog.png)
+![Каталог магазина](https://github.com/optimum-prime-y-y-o/clothe-store/blob/main/images/catalog.png)
 
 
 
